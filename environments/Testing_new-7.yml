@@ -1,8 +1,8 @@
 fileVersion: 1
-id: "6"
+id: "7"
 mappingDefinitions:
   WORK:
     database: JITHENDRA
-    schema: WORKPROD
-name: Production
+    schema: WORKTEST
+name: Testing_new
 type: Environment

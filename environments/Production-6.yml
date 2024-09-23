@@ -1,0 +1,8 @@
+fileVersion: 1
+id: "6"
+mappingDefinitions:
+  WORK:
+    database: JITHENDRA
+    schema: WORKPROD
+name: Production
+type: Environment

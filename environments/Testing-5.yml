@@ -1,0 +1,8 @@
+fileVersion: 1
+id: "5"
+mappingDefinitions:
+  WORK:
+    database: JITHENDRA
+    schema: WORKTEST
+name: Testing
+type: Environment

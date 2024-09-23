@@ -1,8 +1,11 @@
 fileVersion: 1
-id: "7"
+id: "8"
 mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
   WORK:
     database: JITHENDRA
     schema: WORKTEST
-name: Testing_new
+name: Test
 type: Environment
